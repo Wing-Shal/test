@@ -9,4 +9,5 @@ public class TestDto
 	private Date upDate;
 	private String testEmail;
 	private String other;
+	private String testString;
 }
