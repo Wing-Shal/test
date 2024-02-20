@@ -7,4 +7,6 @@ public class TestDto
 	private int testNo;
 	private String testName;
 	private Date upDate;
+	private String testEmail;
+	private String other;
 }
