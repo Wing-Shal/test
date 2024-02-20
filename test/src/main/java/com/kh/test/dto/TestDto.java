@@ -8,4 +8,5 @@ public class TestDto
 	private String testName;
 	private Date upDate;
 	private String testEmail;
+	private String other;
 }
