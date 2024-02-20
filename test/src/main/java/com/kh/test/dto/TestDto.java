@@ -7,7 +7,7 @@ public class TestDto
 	private int testNo;
 	private String testName;
 	private Date upDate;
+	private String catString;
 	private String testEmail;
 	private String other;
-	private String testString;
 }
